@@ -32,9 +32,9 @@ https://www.kicad.org/
 | DATE   | SESSION Title | LINK |
 |--------|---------------|------|
 | Sep 30 | Introduction to Schematics | [Week 01](https://github.com/IEEE-U-of-U/IEEE-KiCAD-Crash-Course/tree/main/Week01) |
-| Oct 14 | Schematics and Components | [Week 02](https://github.com/IEEE-U-of-U/IEEE-KiCAD-Crash-Course/tree/main/Week02) |
+| Oct 14 | Symbols and Components | [Week 02](https://github.com/IEEE-U-of-U/IEEE-KiCAD-Crash-Course/tree/main/Week02) |
 | Oct 21 | Introduction to PCB Layout | [Week 03](https://github.com/IEEE-U-of-U/IEEE-KiCAD-Crash-Course/tree/main/Week03) |
-| Oct 28 | Footprints and PCB Layout | [Week 04](https://github.com/IEEE-U-of-U/IEEE-KiCAD-Crash-Course/tree/main/Week04) |
+| Oct 28 | Extra Session (If Necessary) | [Week 04](https://github.com/IEEE-U-of-U/IEEE-KiCAD-Crash-Course/tree/main/Week04) |
 
 While it is recommended to attend all sessions, we will provide the design and workshop files through a GitHub repository. To stay up to date, please be sure to follow along to not fall behind.
 
